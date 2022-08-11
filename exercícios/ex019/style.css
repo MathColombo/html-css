@@ -1,0 +1,27 @@
+@import url('https://fonts.googleapis.com/css2?family=Inspiration&display=swap');
+
+body {
+    background-image: linear-gradient(to bottom, rgb(75, 194, 75), rgb(248, 3, 248));
+    font-size: 16px;
+    text-align: justify;
+}
+
+h1 {
+    text-align: center;
+}
+
+#principal {
+    font-family: 'Inspiration', cursive;
+}
+
+.basico {
+    color: blue;
+}
+
+.intermediario {
+    color: brown;
+}
+
+.avancado {
+    color: darkolivegreen;
+}
