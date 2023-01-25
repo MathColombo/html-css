@@ -20,8 +20,21 @@ header h1 {
     text-shadow:2px 1px 5px rgba(0, 0, 0, 0.466);
 }
 
-menu {
+#burguer {
     display: block;
+    text-align: center;
+    background-color: rgb(47, 79, 80);
+    color: white;
+    padding: 10px;
+}
+
+#burguer:hover{
+    background-color: black;
+    cursor: pointer;
+}
+
+menu {
+    display: none;
 }
 
 a.menu {
